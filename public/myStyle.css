@@ -1,0 +1,9 @@
+body{
+  background: lightblue;
+}
+#panelHead {
+     font-size: 40px;
+}
+.msgBody {
+     height: 100%;
+}
